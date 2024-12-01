@@ -1,0 +1,9 @@
+ Run the Project
+Start MongoDB:
+bash
+Copy code
+mongod
+Start the server:
+bash
+Copy code
+node src/server.js
