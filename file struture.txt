@@ -1,0 +1,15 @@
+project/
+├── src/
+│   ├── controllers/
+│   │   └── authController.js
+│   ├── middlewares/
+│   │   └── authMiddleware.js
+│   ├── models/
+│   │   └── userModel.js
+│   ├── routes/
+│   │   └── authRoutes.js
+│   ├── utils/
+│   │   └── roles.js
+│   └── server.js
+├── .env
+├── package.json
